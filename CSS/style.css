@@ -1,0 +1,24 @@
+* {
+    padding : 0;
+    margin : 0;
+}
+
+.input {
+color: lime;
+border-color: red;
+}
+
+.jframe{
+width:20%;
+border-color:#8A6CC3
+}
+
+.gla {
+color:#8AFF00;
+border-color:cyan;
+}
+
+body {
+    background : #B9BAC6;
+    color : black;
+}
